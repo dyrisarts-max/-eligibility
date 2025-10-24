@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/eli.html/"
+status = 200
